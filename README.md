@@ -1,7 +1,7 @@
 # COMP3005_Assignment3_Q1
 Database Interaction with PostgreSQL and Application Programming - Alexander Ignacio
 
-Demo Video link: https://youtu.be/Z-O6PXoAVsA
+Demo Video link: https://youtu.be/BifY260cVvQ
 
 Steps To Run:
 1. Copy and Paste dbcmds.txt into your pgAdmin Query Tool Workspace.
